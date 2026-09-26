@@ -1,0 +1,69 @@
+CLAUSEWISE — CONSULTATION PREPARATION BRIEF
+Legal information only. Review with a qualified professional.
+SYNTHETIC EXAMPLE — NOT A REAL MATTER
+
+USER-STATED OBJECTIVE
+Understand early termination costs
+
+JURISDICTION (USER CONFIRMED)
+India · Maharashtra
+
+DOCUMENT
+Rental agreement · Version d4205ce2762e8ce9
+
+USER-PROVIDED FACTS (UNVERIFIED)
+I may relocate in February.
+
+PARTIES & PURPOSE — SOURCE EXTRACT
+1. Parties and purpose
+Asha Example (Landlord) lets Flat 4, Sample House, Pune to Rohan Sample (Tenant) for residential use. These are fictional parties and premises.
+
+TIMELINE — SOURCE EXTRACTS, NOT VERIFIED DEADLINES
+[c3] 2. Term
+The tenancy starts on 1 October 2026 and ends on 30 September 2027. Renewal requires a written agreement signed by both parties.
+
+[c4] 3. Rent and deposit
+The Tenant must pay INR 20,000 per month by the fifth day of each month. A refundable security deposit of INR 60,000 is payable before possession. The Landlord may deduct unpaid rent and documented damage beyond ordinary wear. The remaining deposit must be returned within 30 calendar days after possession is returned.
+
+[c6] 5. Early termination and notice
+Either party may terminate this agreement with 60 calendar days of written notice. If the Tenant leaves before 31 March 2027, the Tenant must also pay an early termination charge equal to one month's rent. The method of delivery and when notice is considered received are not specified.
+
+[c8] 7. Deposit schedule
+The security deposit balance will be returned within 45 calendar days after possession is returned, subject to documented deductions.
+
+REVIEW OBSERVATIONS (NOT USER FACTS OR LEGAL CONCLUSIONS)
+High attention · Document observation: Section 3 says 30 calendar days, while section 7 says 45 calendar days for returning the deposit balance.
+Source [c8]: “7. Deposit schedule
+The security deposit balance will be returned within 45 calendar days after possession is returned, subject to documented deductions.”
+
+Review carefully · Interpretation: The tenant pays INR 20,000 monthly by the fifth and INR 60,000 before possession. Deductions are limited here to unpaid rent and documented damage beyond ordinary wear. This section gives 30 calendar days for returning the balance after possession is returned; section 7 instead gives 45 days.
+Source [c4]: “3. Rent and deposit
+The Tenant must pay INR 20,000 per month by the fifth day of each month. A refundable security deposit of INR 60,000 is payable before possession. The Landlord may deduct unpaid rent and documented damage beyond ordinary wear. The remaining deposit must be returned within 30 calendar days after possession is returned.”
+
+Review carefully · Interpretation: Either party can give 60 calendar days of written notice. If the tenant leaves before 31 March 2027, one month’s rent is also charged. The document does not say how to deliver notice or when it is received, so a final notice deadline needs clarification.
+Source [c6]: “5. Early termination and notice
+Either party may terminate this agreement with 60 calendar days of written notice. If the Tenant leaves before 31 March 2027, the Tenant must also pay an early termination charge equal to one month's rent. The method of delivery and when notice is considered received are not specified.”
+
+Informational · Interpretation: The tenant handles damage from misuse; the landlord handles structural repairs. Entry normally needs 24 hours’ notice, but emergencies are an exception. The agreement does not define an emergency here.
+Source [c7]: “6. Repairs and access
+The Tenant is responsible for damage caused by misuse. The Landlord is responsible for structural repairs. The Landlord must give 24 hours' notice before entry, except in an emergency.”
+
+Review carefully · Interpretation: This section gives 45 calendar days after possession is returned, subject to documented deductions. Section 3 gives 30 days. Ask the parties to resolve the difference in writing; this example does not decide which controls.
+Source [c8]: “7. Deposit schedule
+The security deposit balance will be returned within 45 calendar days after possession is returned, subject to documented deductions.”
+
+UNRESOLVED QUESTIONS
+• Can both deposit return provisions be amended to use the same period?
+• Who is responsible, what triggers this term, and how will compliance be recorded?
+• Who is responsible, what triggers this term, and how will compliance be recorded?
+• Who is responsible, what triggers this term, and how will compliance be recorded?
+• Who is responsible, what triggers this term, and how will compliance be recorded?
+
+MISSING INFORMATION
+Signed version and amendments; full factual context; notice receipt and counting conventions; jurisdiction-specific legal interpretation.
+
+EXTRACTION COVERAGE
+All extracted text organized. No text truncated. Visual extraction accuracy has not been verified.
+
+PREPARATION NOTE
+No external legal research was performed. Source IDs refer to this document version. Keep the original document with this brief.
